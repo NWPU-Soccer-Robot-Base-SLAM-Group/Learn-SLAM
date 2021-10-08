@@ -2,13 +2,8 @@
 
 > 作者：刘权祥
 
-[TOC]
-
 ## 0. 关于本项目
-
-​														<img src="./images/NWPU.png" style="zoom:50%;" />							<img src="./images/SRB.png" style="zoom:5%;" />
-
-
+<div align=center><img width="150" height="150" src="./images/NWPU.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="150" height="150" src="./images/SRB.png"/></div>
 
 本项目由西北工业大学足球机器人基地定位技术组发起，主要负责人为刘权祥。
 
