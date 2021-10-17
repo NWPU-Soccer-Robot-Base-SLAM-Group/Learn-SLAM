@@ -1,7 +1,5 @@
 # Learn-SLAM
 
-> 作者：刘权祥
-
 ## 0. 关于本项目
 <div align=center><img width="150" height="150" src="./images/NWPU.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="150" height="150" src="./images/SRB.png"/></div>
 
